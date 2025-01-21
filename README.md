@@ -1,4 +1,4 @@
-# CrewAI Studio
+ # CrewAI Studio
 
 Welcome to CrewAI Studio! This application provides a user-friendly interface written in Streamlit for interacting with CrewAI, suitable even for those who don't want to write any code. Follow the steps below to install and run the application on Windows or Linux (probably also MacOS) using either Conda or a virtual environment.
 
